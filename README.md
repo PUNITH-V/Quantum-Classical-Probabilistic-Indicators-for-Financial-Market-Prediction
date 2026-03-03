@@ -210,6 +210,20 @@ This creates a **multi-dimensional probabilistic market state representation**.
 - Variational Quantum Circuits
 
 ---
+# 👥 Contributors
+
+## 🧠 Punith V
+- Volatility Probability Estimation (Classical + Quantum)
+- Bayesian Forecast Indicator (CBFI / QBFI)
+- Quantum circuit architecture design
+- Unified framework formulation
+
+## 📈 Rithwik M
+- Trend Probability Indicator (CTPI / QTPI)
+- Reversal Probability Indicator (CRPI / QRPI)
+- Logistic regression modeling
+- TradingView Pine Script validation
+---
 
 # ⭐ If You Found This Interesting
 
